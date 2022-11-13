@@ -159,10 +159,12 @@ body {
 
 .cal-container {
     display: flex;
+    justify-content: center;
 }
 
 .left-calender {
-    margin-left: 500px;
+    display: flex;
+    justify-content: center;
 }
 
 .right-calender {
