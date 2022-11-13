@@ -88,19 +88,39 @@ body {
 }
 
 .right-socials {
-    display: flex;
     justify-content: center;
     align-content: center;
-    margin-top: 125px;
+    margin-top: 75px;
     color: black;
     margin-left: 25px;
+
 }
 
-
+.music-container .heading {
+    display: flex;
+    justify-content: center;
+}
 
 .spotify-butt {
     background-color: rgb(6, 104, 6);
     color: black;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+
+.youtube .heading {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.ytbutt {
+    background-color: red;
+    color: white;
     font-size: 24px;
     display: flex;
     justify-content: center;
