@@ -129,6 +129,16 @@ body {
     border-radius: 10px;
 }
 
+.yt-preview {
+    display: flex;
+    justify-content: center;
+    height: auto;
+}
+
+.yt-player {
+    margin-top: 50px;
+}
+
 .shows-container {
     height: auto;
     margin-top: 50px;
