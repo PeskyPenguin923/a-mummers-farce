@@ -112,6 +112,10 @@ body {
     border-radius: 10px;
 }
 
+.spotify-link {
+    color: black;
+}
+
 .youtube .heading {
     display: flex;
     justify-content: center;
@@ -127,6 +131,10 @@ body {
     margin-left: auto;
     margin-right: auto;
     border-radius: 10px;
+}
+
+.ytbutt a {
+    color: white;
 }
 
 .yt-preview {
